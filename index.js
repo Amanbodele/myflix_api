@@ -17,7 +17,7 @@ app.use(cors(
 ));
 //connection to mongodb server
 
-mongoose.connect("mongodb+srv://amanbodele:Aman123@cluster0.fx54iua.mongodb.net/movies", {
+mongoose.connect("mongodb+srv://amanbodele:Aman123@cluster0.fx54iua.mongodb.net/test", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
