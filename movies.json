@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Avatar",
+    "posterURL": "https://cdn.mos.cms.futurecdn.net/RwG8mLkpn2b3mabgRFLoMG.jpg",
+    "imdbRating": 7.9,
+    "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "genre": "Action, Adventure, Fantasy,superhero",
+    "releaseDate": "18 December 2009",
+    "runtime": 176,
+    "top": false,
+    "watchers": 95,
+    "filePath": "movies/avatar.mp4"
+  },
+
+  {
+    "name": "I Am Legend",
+    "posterURL": "https://www.gamespot.com/a/uploads/screen_kubrick/171/1712892/3816138-i-am-legend-will-smith.jpg",
+    "imdbRating": 7.9,
+    "description": "It is set in New York City after a virus, which was originally created to cure cancer, has wiped out most of mankind, leaving Neville as the last human in New York, other than nocturnal mutants. Neville is immune to the virus, and he works to develop a cure while defending himself against the hostile mutants",
+    "genre": "Drama, Horror, Sci-Fi",
+    "releaseDate": "14 Dec 2007",
+    "runtime": 101,
+    "top": false,
+    "watchers": 85,
+    "filePath": "movies/Iamlegend.mp4"
+  },
+
+  {
+    "name": "The Avengers",
+    "posterURL": "https://i0.wp.com/www.heyuguys.com/images/2012/03/The-Avengers-international-poster.jpg?ssl=1",
+    "imdbRating": 7.9,
+    "description": "Earth's Mightiest Heroes stand as the planet's first line of defense against the most powerful threats in the universe. The Avengers began as a group of extraordinary individuals who were assembled to defeat Loki and his Chitauri army in New York City.",
+    "genre": "Action, Sci-Fi, Thriller,superhero",
+    "releaseDate": "04 May 2012",
+    "runtime": 143,
+    "top": false,
+    "watchers": 198,
+    "filePath": "movies/avenger.mp4"
+  },
+
+  {
+    "name": "The Wolf of Wall Street",
+    "posterURL": "https://flxt.tmsimg.com/assets/p9991602_p_v12_aj.jpg",
+    "imdbRating": 8.2,
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government. In the early 1990s, Jordan Belfort teamed with his partner Donny Azoff and started brokerage firm Stratton Oakmont.",
+    "genre": "Biography,sci-fi, Crime",
+    "releaseDate": "25 Dec 2013",
+    "runtime": 180,
+    "top": false,
+    "watchers": 162,
+    "filePath": "movies/wolf.mp4"
+  },
+
+  {
+    "name": "The Bat Man",
+    "posterURL": "https://cdn.vox-cdn.com/thumbor/66VZf5BjburBb48J-bduOpmpKFo=/0x0:1638x2048/1200x0/filters:focal(0x0:1638x2048):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21786522/Ef4Do0cWkAEyy1i.jpeg",
+    "imdbRating": 8.2,
+    "description": "The film sees Batman, who has been fighting crime in Gotham City for two years, uncover corruption while pursuing the Riddler (Dano), a serial killer who targets Gotham's elite.",
+    "genre": "Action,superhero, Crime",
+    "releaseDate": "4 March 2022",
+    "runtime": 170,
+    "top": false,
+    "watchers": 12,
+    "filePath": "movies/batman.mp4"
+  },
+
+  {
+    "name": "RRR",
+    "posterURL": "https://pbs.twimg.com/media/FOw1WtKVcAAkOBy.jpg:large",
+    "imdbRating": 8.2,
+    "description": "It is a fictional story about two real-life Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), and their fight against the British Raj.",
+    "genre": "Action,superhero, Crime",
+    "releaseDate": "24 March 2022",
+    "runtime": 190,
+    "top": false,
+    "watchers": 55,
+    "filePath": "movies/RRR.mp4"
+  },
+
+  {
+    "name": "KGF 2",
+    "posterURL": "https://m.media-amazon.com/images/M/MV5BMjMwMDgyOGQtMWZjNC00MDUwLTllZDYtZWM3NDBmN2YzNGZmXkEyXkFqcGdeQXVyMTQzNjkzMzEw._V1_.jpg",
+    "imdbRating": 8.2,
+    "description": "The film stars Yash, Sanjay Dutt, Raveena Tandon, Srinidhi Shetty and Prakash Raj. It follows the assassin Rocky, who after establishing himself as the kingpin of the Kolar Gold Fields, must retain his supremacy over adversaries and government officials, while also coming to terms with his past.",
+    "genre": "Action,sci-fi, Crime",
+    "releaseDate": "14 April 2022",
+    "runtime": 160,
+    "top": false,
+    "watchers": 125,
+    "filePath": "movies/kgf2.mp4"
+  },
+
+  {
+    "name": "3 Idiots",
+    "posterURL": "https://m.media-amazon.com/images/M/MV5BMTMyOTg0ODQ1OF5BMl5BanBnXkFtZTcwNjc0NTMwNQ@@._V1_.jpg",
+    "imdbRating": 8.8,
+    "description": "The movie follows their travels to find their long lost friend, while flashing back to the events of their school years, where they often got into amusing shenanigans involving the Dean of Delhi's Imperial College of Engineering, Viru Sahastrabudhe, and dealt with some serious events that many people encounter in every ",
+    "genre": "Action,superhero, Crime",
+    "releaseDate": "25 December 2009",
+    "runtime": 171,
+    "top": true,
+    "watchers": 232,
+    "filePath": "movies/idiots.mp4"
+  },
+
+  {
+    "name": "Tare Jameeen Par",
+    "posterURL": "https://m.media-amazon.com/images/I/71T3xCh2MoL._SL1200_.jpg",
+    "imdbRating": 8.5,
+    "description": "Taare zameen par is a story about a child played by Darsheel Safari who suffers from dyslexia. As a result of which he is unable to cope with daily life, during his early childhood. ",
+    "genre": "Action,superhero,sci-fi",
+    "releaseDate": "21 December 2007",
+    "runtime": 164,
+    "top": false,
+    "watchers": 85,
+    "filePath": "movies/taare.mp4"
+  },
+
+  {
+    "name": "Main tera hero",
+    "posterURL": "https://n2.sdlcdn.com/imgs/b/u/n/1day_main_terahero-b3133.jpg",
+    "imdbRating": 8,
+    "description": "Sreenath Prasad aka Seenu is the most notorious boy in Ooty. He drops out of college in Ooty in order to pursue education in a Bangalore college. Here he falls in love with Sunaina. But Sunaina is forced to marry Angad, a local police officer, who is more of a terrorizing gangste ",
+    "genre": "Action,hero,drama",
+    "releaseDate": "4 April 2014",
+    "runtime": 160,
+    "top": false,
+    "watchers": 165,
+    "filePath": "movies/hero.mp4"
+  }
+]
